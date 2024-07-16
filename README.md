@@ -5,7 +5,7 @@
 다양한 서비스 개발을 위한 내용으로도 제작이 가능하고 문의 주시면 도와드리겠습니다.
 <br/>
 <br/>
-<a href="https://github.com/aebonlee" target="_blank">
+<a href="https://github.com/gomsbft" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/aebon" target="_blank">
