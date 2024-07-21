@@ -2,7 +2,7 @@
 한지원. FRONT-END<br/><br/>
 간단한 웹을 제작할 수 있습니다.<br/><br/>
 HTML, CSS, JS, REACT <br/><br/>
-다양한 서비스 개발을 위한 내용으로도 제작이 가능
+반응형 웹, 앱 개발
 <br/>
 <br/>
 <a href="https://github.com/gomsbft" target="_blank">
