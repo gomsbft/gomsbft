@@ -45,7 +45,7 @@
 ![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
-**SNS**
+**SNS (LINK)**
 
 
 <a href="https://www.instagram.com/gomdeschool" target="_blank">
