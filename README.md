@@ -1,6 +1,5 @@
 ![Hello](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Hello,%20I'm%20jiwon&fontAlignY=45&fontAlign=50&section=header&fontColor=FFBE98)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgomsbft%2Fhit-counter&count_bg=%236DA2D4&title_bg=%2361C8B3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### FE Developer
 안녕하세요, 끊임없이 도전하는 프론트엔드 개발자 한지원입니다 ^__^
