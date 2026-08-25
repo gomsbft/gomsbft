@@ -1,7 +1,7 @@
 ![Hello](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Hello,%20I'm%20jiwon&fontAlignY=45&fontAlign=50&section=header&fontColor=FFBE98)
 
 
-### FE Developer
+### Developer
 안녕하세요, 끊임없이 도전하는 개발자 한지원입니다 ^__^
 
 ### SKTLLS
